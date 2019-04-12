@@ -1,0 +1,7 @@
+C:\Users\be_ca\source\repos\Laboratorio_02\Laboratorio_02\bin\Debug\Laboratorio_02.exe.config
+C:\Users\be_ca\source\repos\Laboratorio_02\Laboratorio_02\bin\Debug\Laboratorio_02.exe
+C:\Users\be_ca\source\repos\Laboratorio_02\Laboratorio_02\bin\Debug\Laboratorio_02.pdb
+C:\Users\be_ca\source\repos\Laboratorio_02\Laboratorio_02\obj\Debug\Laboratorio_02.csprojAssemblyReference.cache
+C:\Users\be_ca\source\repos\Laboratorio_02\Laboratorio_02\obj\Debug\Laboratorio_02.csproj.CoreCompileInputs.cache
+C:\Users\be_ca\source\repos\Laboratorio_02\Laboratorio_02\obj\Debug\Laboratorio_02.exe
+C:\Users\be_ca\source\repos\Laboratorio_02\Laboratorio_02\obj\Debug\Laboratorio_02.pdb
