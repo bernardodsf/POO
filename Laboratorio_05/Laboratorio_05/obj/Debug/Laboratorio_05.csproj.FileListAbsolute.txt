@@ -1,0 +1,10 @@
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\bin\Debug\Laboratorio_05.exe.config
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\bin\Debug\Laboratorio_05.exe
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\bin\Debug\Laboratorio_05.pdb
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\obj\Debug\Laboratorio_05.csprojAssemblyReference.cache
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\obj\Debug\Laboratorio_05.Form1.resources
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\obj\Debug\Laboratorio_05.Properties.Resources.resources
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\obj\Debug\Laboratorio_05.csproj.GenerateResource.cache
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\obj\Debug\Laboratorio_05.csproj.CoreCompileInputs.cache
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\obj\Debug\Laboratorio_05.exe
+C:\Users\be_ca\source\repos\Laboratorio_05\Laboratorio_05\obj\Debug\Laboratorio_05.pdb
