@@ -1,0 +1,7 @@
+C:\Users\be_ca\source\repos\Laboratorio_08\Laboratorio_08\bin\Debug\Laboratorio_08.exe.config
+C:\Users\be_ca\source\repos\Laboratorio_08\Laboratorio_08\bin\Debug\Laboratorio_08.exe
+C:\Users\be_ca\source\repos\Laboratorio_08\Laboratorio_08\bin\Debug\Laboratorio_08.pdb
+C:\Users\be_ca\source\repos\Laboratorio_08\Laboratorio_08\obj\Debug\Laboratorio_08.csprojAssemblyReference.cache
+C:\Users\be_ca\source\repos\Laboratorio_08\Laboratorio_08\obj\Debug\Laboratorio_08.csproj.CoreCompileInputs.cache
+C:\Users\be_ca\source\repos\Laboratorio_08\Laboratorio_08\obj\Debug\Laboratorio_08.exe
+C:\Users\be_ca\source\repos\Laboratorio_08\Laboratorio_08\obj\Debug\Laboratorio_08.pdb
